@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/train/images  # Path to training images
+val: /content/drive/MyDrive/val/images      # Path to validation images
+nc: 1                                      # Number of classes
+names: ['Grapes']                          # List of class names
